@@ -43,6 +43,6 @@
 * GitHub - https://github.com/kimihsiao/aboutMe
 * 個人介紹網頁 - https://kimihsiao.github.io/web01
 * 工作作品，RWD網站，使用bootstrap grid架構網站和一些功能 - https://kimihsiao.github.io/web02
-* 工作作品，RWD網站，此用JQuery Plugin設計網站排版效果 - https://kimihsiao.github.io/web03
+* 工作作品，RWD網站，使用JQuery Plugin設計網站排版效果 - https://kimihsiao.github.io/web03
 * 工作作品，使用CSS3設計選單的動畫效果 - https://kimihsiao.github.io/web04
 * AngularJS練習作品 - https://kimihsiao.github.io/web05
