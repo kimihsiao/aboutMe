@@ -46,3 +46,4 @@
 * 工作作品，RWD網站，使用JQuery Plugin設計網站排版效果 - https://kimihsiao.github.io/web03
 * 工作作品，使用CSS3設計選單的動畫效果 - https://kimihsiao.github.io/web04
 * AngularJS練習作品 - https://kimihsiao.github.io/web05
+* Wordpress練習，參考Mobile01網站 - http://kimixiao.byethost32.com/
