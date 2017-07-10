@@ -8,12 +8,18 @@
 
 ## 自我介紹
 
-* 離開原本的機械工程師後，經朋友介紹網頁程式而開始學習，而後了解到有分前端與後端的差別，發現喜歡前端的視覺性與應用性
+離開原本的機械工程師後，經朋友介紹網頁程式而開始學習，而後了解到有分前端與後端的差別，發現喜歡前端的視覺性與應用性
 ，便決定專心的往前端工程師方向前進。而新技術會持續的推陳出新，學習的過程中也會精進自己的能力，這也是我喜歡的地方。
-但新技術的使用還是要依自己的需求而定，非盲目的追隨學習使用。
 
 
 ## 工作經歷
+
+#### 群廣資訊股份有限公司 - 2017/04 ~ 2017/07
+
+* 使用 HTML5，CSS3，javascript 與 JQuery 編寫前端介面與微互動效果。
+* 使用 Photoshop 解析網站設計圖，並與UI/UX設計師討論介面排版。
+* 使用 wordpress 建構網站。
+* 使用 Axure RP 幫忙APP原型製作。
 
 #### 群廣資訊股份有限公司 - 2015/11 ~ 2016/12
 
@@ -34,7 +40,7 @@
 ## 學習技能
 
 * Git & GitHub : 有基礎的了解，並使用 GitHub Pages 建立靜態網頁。
-* AngularJS : 有基礎的了解，並自己建構了一個簡單的應用程式網站。
+* AngularJS & ReactJS : 有基礎的了解，並自己建構了一個簡單的應用程式網站。
 * Gulp : 有基礎的了解，是可以自動化建置網站發布前需執行的一些工作。
 * CSS : 有基礎了解CSS架構方法，如OOCSS, SMACSS, BEM。
 
@@ -44,6 +50,9 @@
 * 個人介紹網頁 - https://kimihsiao.github.io/web01
 * 工作作品，RWD網站，使用bootstrap grid架構網站和一些功能 - https://kimihsiao.github.io/web02
 * 工作作品，RWD網站，使用JQuery Plugin設計網站排版效果 - https://kimihsiao.github.io/web03
-* 工作作品，使用CSS3設計選單的動畫效果 - https://kimihsiao.github.io/web04
+* 工作作品，使用CSS3設計選單的動畫效果 - https://kimihsiao.github.io/web04/page_data.html
 * AngularJS練習作品 - https://kimihsiao.github.io/web05
-* Wordpress練習，參考Mobile01網站 - http://kimixiao.byethost32.com/
+* ReactJS練習作品 - https://kimihsiao.github.io/web07
+* AJAX 動態載入 API JSON 搭配 google map API - http://kimixiao.000webhostapp.com/
+* Axure RP原型製作作品 - https://kimihsiao.github.io/web08
+* wordpress作品 - https://www.twra.org.tw/
