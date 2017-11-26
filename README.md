@@ -65,6 +65,6 @@
   https://kimihsiao.github.io/web09/cart_UserData.html
 * AngularJS練習作品 - https://kimihsiao.github.io/web05
 * ReactJS練習作品 - https://kimihsiao.github.io/web07
-* AJAX 動態載入 API JSON 搭配 google map API - http://kimixiao.000webhostapp.com/
+* AJAX 動態載入 API JSON 搭配 google map API - https://kimihsiao.github.io/web10/
 * Axure RP原型製作作品 - https://kimihsiao.github.io/web08
 * wordpress作品 - https://www.twra.org.tw/
