@@ -54,17 +54,3 @@
 * CSS : 有基礎了解CSS架構方法，如OOCSS, SMACSS, BEM。
 
 ## 個人作品
-
-* GitHub - https://github.com/kimihsiao/aboutMe
-* 個人介紹網頁 - https://kimihsiao.github.io/web01
-* 工作作品，RWD網站，使用bootstrap架構網站和一些功能 - https://kimihsiao.github.io/web02
-* 工作作品，RWD網站，使用JQuery Plugin設計網站排版效果 - https://kimihsiao.github.io/web03
-* 工作作品，RWD網站，使用bootstrap架構網站和javascript編寫功能 - 
-  https://kimihsiao.github.io/web09/
-  https://kimihsiao.github.io/web09/cart_index.html
-  https://kimihsiao.github.io/web09/cart_UserData.html
-* AngularJS練習作品 - https://kimihsiao.github.io/web05
-* ReactJS練習作品 - https://kimihsiao.github.io/web07
-* AJAX 動態載入 API JSON 搭配 google map API - https://kimihsiao.github.io/web10/
-* Axure RP原型製作作品 - https://kimihsiao.github.io/web08
-* wordpress作品 - https://www.twra.org.tw/
